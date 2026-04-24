@@ -3,8 +3,7 @@ using namespace std;
 int main()
 {
     int nb, inverse = 0;
-    cout <<"Bonjour c'est Tantie Ami"<< endl; // Amina
-<<<<<<< HEAD
+    cout <<"Bonjour c'est Tantie Ami"<< endl; // Aminac
       cout << "entrez un nombre:";
       cin >> nb;
       while (nb !=0)
